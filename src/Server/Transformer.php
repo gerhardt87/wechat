@@ -159,4 +159,9 @@ class Transformer
                 'Articles' => $articles,
                ];
     }
+
+    public function transformDevice()
+    {
+        
+    }
 }

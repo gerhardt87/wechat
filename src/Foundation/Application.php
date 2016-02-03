@@ -61,6 +61,7 @@ class Application extends Container
         ServiceProviders\PaymentServiceProvider::class,
         ServiceProviders\POIServiceProvider::class,
         ServiceProviders\BroadcastServiceProvider::class,
+        ServiceProviders\DeviceServiceProvider::class,
     ];
 
     /**
